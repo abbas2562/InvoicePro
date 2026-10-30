@@ -6,6 +6,8 @@ Built with C# and ASP.NET Core, the project provides a structured backend archit
 
 The project also provides the foundation for integrating Pakistan's Federal Board of Revenue (FBR) Digital Invoicing APIs, enabling businesses to move towards compliant electronic invoicing workflows.
 
+Live FrontendOnly: https://invoicepro-xi.vercel.app/
+
 ## 🚀 Key Features
 
 - **Invoice Management:** Manage and maintain business invoices through dedicated API endpoints.
